@@ -71,5 +71,6 @@ function testClaseEdificio() {
 
 function main() {
   testClaseEdificio();
+  console.log("prueba de push y pull")
 }
 main();
